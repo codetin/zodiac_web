@@ -626,6 +626,21 @@ p.section-title-white {
     transition: all 0.3s ease 0s;
     font-family: "Poppins", sans-serif;
 }
+.get_btn_start {
+    background: #35ac39;
+    border: 1px solid #35ac39;
+    border-radius: 500px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 30px;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
 @media only screen and (max-width: 360px) {
     .get_btn_two {
         padding: 10px 40px;
